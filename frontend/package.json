@@ -1,0 +1,6 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "description": "占位文件：待 D 补全 Vue 3 + Vite + ECharts + Axios 依赖"
+}
